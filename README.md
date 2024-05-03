@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grumpaz
 - 👀 I’m interested in ...things
-- 🌱 I’m currently learning ...github
+- 🌱 I’m currently learning ...github & aseprite :D
 - 💞️ I’m looking to collaborate on ...stuff
 - 📫 How to reach me ...by carrier pigeon
 - 😄 Pronouns: ...grumpaz
